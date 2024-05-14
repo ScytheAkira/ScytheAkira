@@ -3,7 +3,7 @@
 - I'm learning many things, including web development and programming.
 - My interests mostly lie in UI and frontend development, as a system is only as good as it appears to a user.
 
-![image](https://github.com/ScytheAkira/ScytheAkira/assets/136972431/44d7b37d-2786-4621-ad4d-072cdb6b90ad)
+<div class="tenor-gif-embed" data-postid="21531131" data-share-method="host" data-aspect-ratio="1.97531" data-width="100%"><a href="https://tenor.com/view/policenauts-synthwave-gif-21531131">Policenauts Synthwave GIF</a>from <a href="https://tenor.com/search/policenauts-gifs">Policenauts GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <!---
