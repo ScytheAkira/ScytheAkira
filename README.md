@@ -4,7 +4,7 @@
 - My interests mostly lie in UI and frontend development, as a system is only as good as it appears to a user.
 
 
-     ![policenauts-synthwave (1)](https://github.com/ScytheAkira/ScytheAkira/assets/136972431/af4f801a-a2fa-44bd-a1e9-3d8702883f10)
+    ![policenauts-synthwave (1)](https://github.com/ScytheAkira/ScytheAkira/assets/136972431/af4f801a-a2fa-44bd-a1e9-3d8702883f10)
 
 
 <!---
