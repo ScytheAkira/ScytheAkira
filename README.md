@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- My Name is Ikram, I'm 22 and an undergraduate in Computer Science.
+- My Name is Ikram, I'm 23 and an undergraduate in Computer Science.
 - I'm learning many things, including web development and programming.
 - My interests mostly lie in UI and frontend development, as a system is only as good as it appears to a user.
 <!--Intro end-->
