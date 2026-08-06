@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-- **Who I am:** I’m Ikram, a Machine Learning Engineer and Computer Science specialist.
+- **Who I am:** I’m Ikram, a Machine Learning Engineer and Computer Science specialist. This is my personal Github, so you won't really see it being as populated, as I mostly work on my company's gitlab/github accounts. 
 - **Focus:** I architect AI-powered solutions and **Agentic Systems**, specializing in NLP, Computer Vision, and autonomous agent workflows.
 - **Philosophy:** I believe a system is defined by its intelligence and autonomy—building tools that don't just respond, but think and act.
 <div id="user-content-toc">
