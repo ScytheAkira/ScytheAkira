@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-- **Who I am:** I’m Ikram, a Machine Learning Engineer and Computer Science specialist. This is my personal Github, so you won't really see it being as populated, as I mostly work on my company's gitlab/github accounts. 
+- **Who I am:** I’m Ikram, a Machine Learning and AI Engineer. This is my personal Github, so you won't really see it being as populated, as I mostly work on my company's gitlab/github accounts. 
 - **Focus:** I architect AI-powered solutions and **Agentic Systems**, specializing in NLP, Computer Vision, and autonomous agent workflows.
 - **Philosophy:** I believe a system is defined by its intelligence and autonomy—building tools that don't just respond, but think and act.
 <div id="user-content-toc">
@@ -22,7 +22,7 @@
 </p>
 
 ### 🤖 Agentic & ML Expertise
-* **Agentic Development:** Architecting custom systems using **Antigravity**, **Claude Code**, and **OpenCode** SDKs.
+* **Agentic Development:** Architecting custom systems using **Antigravity**, **Claude Code**, **Codex** and **OpenCode** SDKs. I'm a Claude Certified Architect.
 * **MLOps & Cloud:** Deploying scalable models via **GCP**, **Google BigQuery**, and **FastAPI** microservices.
 * **Deep Learning:** End-to-end lifecycles for Data Classification, NLP, and Computer Vision.
 * **Full Spectrum:** Leveraging a background in **Django**, **NestJS**, and **MERN** to build robust interfaces for complex AI backends.
