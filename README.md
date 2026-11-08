@@ -1,49 +1,40 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm @scytheakira</h1></summary>
-  </ul>
+<div align="center">
+  <img src="https://github.com/ScytheAkira/ScytheAkira/assets/136972431/af4f801a-a2fa-44bd-a1e9-3d8702883f10" width="640" alt="Pixel-art detective leaning back at his desk, feet up, neon blinds behind him" />
 </div>
 
-- **Who I am:** I’m Ikram, a Machine Learning and AI Engineer. This is my personal Github, so you won't really see it being as populated, as I mostly work on my company's gitlab/github accounts. 
-- **Focus:** I architect AI-powered solutions and **Agentic Systems**, specializing in NLP, Computer Vision, and autonomous agent workflows.
-- **Philosophy:** I believe a system is defined by its intelligence and autonomy—building tools that don't just respond, but think and act.
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">The Intelligence Stack 🧠</h2></summary>
-  </ul>
-</div>
+<br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,linux,docker,gcp,fastapi,pytorch,tensorflow,mongodb,mysql,git,github,js,nodejs,vscode,postman&perline=8" />
-  </a>
-</p>
+```text
+ADVANCED POLICE // PERSONNEL FILE
 
-### 🤖 Agentic & ML Expertise
-* **Agentic Development:** Architecting custom systems using **Antigravity**, **Claude Code**, **Codex** and **OpenCode** SDKs. I'm a Claude Certified Architect.
-* **MLOps & Cloud:** Deploying scalable models via **GCP**, **Google BigQuery**, and **FastAPI** microservices.
-* **Deep Learning:** End-to-end lifecycles for Data Classification, NLP, and Computer Vision.
-* **Full Spectrum:** Leveraging a background in **Django**, **NestJS**, and **MERN** to build robust interfaces for complex AI backends.
+NAME        Ikram Ul Haq
+HANDLE      scytheakira
+ROLE        Machine learning & AI engineer
+CASEWORK    Agentic systems, NLP, computer vision
+CLEARANCE   Claude Certified Architect
+STATUS      Active. Most work is filed under company accounts.
+```
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+```text
+EQUIPMENT
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ikram-ul-haq-023a61218" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p>
+agents      Claude Code, Codex, OpenCode, Antigravity
+ml          PyTorch, TensorFlow
+cloud       GCP, BigQuery, FastAPI, Docker
+web         Django, NestJS, MERN
+desk        Arch Linux, Hyprland (Omarchy)
+```
 
-<div align="center" >
-  
-![policenauts-synthwave (1)](https://github.com/ScytheAkira/ScytheAkira/assets/136972431/af4f801a-a2fa-44bd-a1e9-3d8702883f10)
+**Open cases**
 
-</div>
+- [omarchy-renaissance-theme](https://github.com/ScytheAkira/omarchy-renaissance-theme): a public-domain painting a day, candlelit lock screen, zodiac workspaces
+- [omarchy-game-dock](https://github.com/ScytheAkira/omarchy-game-dock): one keybind to launch Steam and desktop games
+- [omarchy-bar-modes](https://github.com/ScytheAkira/omarchy-bar-modes): opaque, pill and translucent modes for the Omarchy bar
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="right" >
-<a href= "https://github.com/1010nishant"> Readme Credit </a>
-</div>
+**Contact**
+
+[ikram.info](https://ikram.info) · [LinkedIn](https://www.linkedin.com/in/ikram-ul-haq-023a61218)
+
+<br>
+
+<sub>Banner art from Policenauts (Konami, 1994).</sub>
