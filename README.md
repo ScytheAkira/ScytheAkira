@@ -5,36 +5,22 @@
 <br>
 
 ```text
-ADVANCED POLICE // PERSONNEL FILE
+ikram ul haq
+machine learning & ai engineer
 
-NAME        Ikram Ul Haq
-HANDLE      scytheakira
-ROLE        Machine learning & AI engineer
-CASEWORK    Agentic systems, NLP, computer vision
-CLEARANCE   Claude Certified Architect
-STATUS      Active. Most work is filed under company accounts.
+agentic systems, nlp, computer vision
+claude certified architect
+most of my work lives on company accounts
+
+agents   claude code, codex, opencode, antigravity
+ml       pytorch, tensorflow
+cloud    gcp, bigquery, fastapi, docker
+web      django, nestjs, mern
+desk     arch linux, hyprland
 ```
 
-```text
-EQUIPMENT
+<p align="center">
+  <a href="https://ikram.info">ikram.info</a> · <a href="https://www.linkedin.com/in/ikram-ul-haq-023a61218">linkedin</a>
+</p>
 
-agents      Claude Code, Codex, OpenCode, Antigravity
-ml          PyTorch, TensorFlow
-cloud       GCP, BigQuery, FastAPI, Docker
-web         Django, NestJS, MERN
-desk        Arch Linux, Hyprland (Omarchy)
-```
-
-**Open cases**
-
-- [omarchy-renaissance-theme](https://github.com/ScytheAkira/omarchy-renaissance-theme): a public-domain painting a day, candlelit lock screen, zodiac workspaces
-- [omarchy-game-dock](https://github.com/ScytheAkira/omarchy-game-dock): one keybind to launch Steam and desktop games
-- [omarchy-bar-modes](https://github.com/ScytheAkira/omarchy-bar-modes): opaque, pill and translucent modes for the Omarchy bar
-
-**Contact**
-
-[ikram.info](https://ikram.info) · [LinkedIn](https://www.linkedin.com/in/ikram-ul-haq-023a61218)
-
-<br>
-
-<sub>Banner art from Policenauts (Konami, 1994).</sub>
+<p align="center"><sub>banner: policenauts (konami, 1994)</sub></p>
